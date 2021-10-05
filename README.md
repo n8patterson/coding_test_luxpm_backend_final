@@ -32,13 +32,13 @@ In order to add a new string to be processed by the python script and added to t
 
 Example with postman:
 
-![GET Example](./Resources/postUsernameExample.gif)
+![GET Example](./resources/postUsernameExample.gif)
 
 In order to get all information from the database do a GET to the folowing /usernames endpoint.
 
 Example with postman:
 
-![PUT Example](./Resources/getUsernamesExample.gif)
+![PUT Example](./resources/getUsernamesExample.gif)
 
 ---
 
